@@ -1,4 +1,4 @@
-public class Lecture
+public class Lecture implements Module
 {
 	private String name;
 	
